@@ -1,0 +1,50 @@
+[
+  {
+    "id": "hotmail",
+    "label": "Hotmail",
+    "emoji": "<a:chepa:1442587396209119294>",
+    "image": "",
+    "style": "Secondary",
+    "file": "stock/hotmail.txt"
+  },
+  {
+    "id": "proton-vpn",
+    "label": "Proton VPN",
+    "emoji": "<a:ekgk:1442560444589150291>",
+    "image": "",
+    "style": "Secondary",
+    "file": "stock/proton-vpn.txt"
+  },
+  {
+    "id": "crunchyroll",
+    "label": "Crunchyroll",
+    "emoji": "<a:ter:1444076166800474112>",
+    "image": "",
+    "style": "Secondary",
+    "file": "stock/crunchyroll.txt"
+  },
+  {
+    "id": "spotify",
+    "label": "Spotify",
+    "emoji": "<:Spotify:1386296414002479164>",
+    "image": "",
+    "style": "Secondary",
+    "file": "stock/spotify.txt"
+  },
+  {
+    "id": "disney",
+    "label": "Disney",
+    "emoji": "<a:Disney:1430548944563339376>",
+    "image": "",
+    "style": "Secondary",
+    "file": "stock/disney.txt"
+  },
+  {
+    "id": "shein",
+    "label": "Shein",
+    "emoji": "<a:jaiai:1442560921909329972>",
+    "image": "",
+    "style": "Secondary",
+    "file": "stock/shein.txt"
+  }
+]
